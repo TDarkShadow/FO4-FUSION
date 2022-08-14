@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "FUSION",
+    "description": "FUSION Is a lightweight mod list that is small in scope with around 150 active mods. These mods have been carefully chosen to not change the game in radical new ways and instead compliment the original vision Bethesda had for the game.
+Performance is targeted to be the same or even slightly better than the base game due to extensive optimisation, no large texture packs and no ENB Preset included. The aim of the list is to update the game to 2022 standards without sacrificing anything in return.
+FUSION REQUIRES a legal copy of Fallout 4 on steam with all the DLCs apart from the HD pack.
+",
+    "author": "<SpringHeelJon>",
+    "maintainers": [
+      "github/<SpringHeelJon>"
+    ],
+    "game": "Fallout4",
+    "tags": [
+      "testing",
+      "Lightweight"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_WJ(1).png>",
+      "readme": "<https://www.nexusmods.com/fallout4/mods/62880>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "<https://discord.gg/xvh9A9qd>"
+    },
+    "download_metadata": {
+     "$type": "DownloadMetadata, Wabbajack.Lib",
+  "Hash": "k0L0WFUsjww=",
+  "Size": 216146478,
+  "NumberOfArchives": 192,
+  "SizeOfArchives": 12807041409,
+  "NumberOfInstalledFiles": 4075,
+  "SizeOfInstalledFiles": 9889056463
+}
+    },
+    "version": "1.1"
+  }
+]
