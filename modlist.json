@@ -2,9 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "FUSION",
-    "description": "FUSION Is a lightweight mod list that is small in scope with around 150 active mods. These mods have been carefully chosen to not change the game in radical new ways and instead compliment the original vision Bethesda had for the game.
-Performance is targeted to be the same or even slightly better than the base game due to extensive optimisation, no large texture packs and no ENB Preset included. The aim of the list is to update the game to 2022 standards without sacrificing anything in return.
-FUSION REQUIRES a legal copy of Fallout 4 on steam with all the DLCs apart from the HD pack.
+    "description": "FUSION Is a lightweight mod list that is small in scope with around 150 active mods.
 ",
     "author": "<SpringHeelJon>",
     "maintainers": [
