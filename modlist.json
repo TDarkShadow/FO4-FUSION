@@ -2,8 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "FUSION",
-    "description": "FUSION Is a lightweight mod list that is small in scope with around 150 active mods.
-",
+    "description": "FUSION Is a lightweight mod list that is small in scope with around 150 active mods.",
     "author": "<SpringHeelJon>",
     "maintainers": [
       "github/<SpringHeelJon>"
