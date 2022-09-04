@@ -1,0 +1,26 @@
+Version 1.2
+UPDATED:
+Fixed Gobo Effects to 2.1.1
+PRP to 0.59.11
+Legendaries they can use to 2.0
+Immersive candles to 0.91
+Publick Occurrences Expanded to 3.3.1
+Auto open doors to 1.03
+Far Object Lod Improvement project to 2.2
+Optimised vanilla tree LODS to 2.0
+Far harbour 3d Tree Lods to 2.0 and merged performance billboard optional
+
+ADDED:
+Better Notes
+Sprint Reload
+Shadow Boost
+DAKS Assault Rifle Replacer mesh only version.
+
+Version 1.1.1
+Official release.
+
+Version 1.0
+Open Beta
+
+Version 0.1
+Alpha pre release
