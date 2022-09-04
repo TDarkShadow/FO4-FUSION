@@ -3,9 +3,9 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "FUSION",
     "description": "FUSION is a lightweight mod list that is small in scope with around 150 active mods. Ideal for 1st time players or those looking for a fixed and optimised vanilla experience.",
-    "author": "<SpringHeelJon>",
+    "author": "SpringHeelJon",
     "maintainers": [
-      "github/<SpringHeelJon>"
+      "github/SpringHeelJon"
     ],
     "game": "Fallout4",
     "tags": [
@@ -17,21 +17,21 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_WJ(1).png>",
-      "readme": "<https://www.nexusmods.com/fallout4/mods/62880>",
+      "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_WJ(1).png",
+      "readme": "https://www.nexusmods.com/fallout4/mods/62880",
       "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_e669c682-23f0-4def-8061-8cbb796522f1",
       "machineURL": "machineURL",
-      "discordURL": "<https://discord.gg/xvh9A9qd>"
+      "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-    "$type": "DownloadMetadata, Wabbajack.Lib",
-    "Hash": "ydbUWKqfJp0=",
-    "Size": 215962897,
-    "NumberOfArchives": 196,
-    "SizeOfArchives": 12880761858,
-    "NumberOfInstalledFiles": 4186,
-    "SizeOfInstalledFiles": 10051888807
-},
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ydbUWKqfJp0=",
+      "Size": 215962897,
+      "NumberOfArchives": 196,
+      "SizeOfArchives": 12880761858,
+      "NumberOfInstalledFiles": 4186,
+      "SizeOfInstalledFiles": 10051888807
+    },
     "version": "1.2"
-    }
- ]
+  }
+]
