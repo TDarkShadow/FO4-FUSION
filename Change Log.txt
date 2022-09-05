@@ -1,3 +1,7 @@
+Version 1.2.1
+Missing ESP for EVB archives fixed
+FUSION MCM Presets not autoloading on new game fixed
+
 Version 1.2
 UPDATED:
 Fixed Gobo Effects to 2.1.1
