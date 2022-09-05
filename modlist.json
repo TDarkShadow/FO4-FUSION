@@ -7,7 +7,8 @@
     "maintainers": [
       "github/SpringHeelJon"
     ],
-    "game": "Fallout4",
+    "game": "fallout4",
+    "official": false,
     "tags": [
       "Nevernude",
       "Lightweight",
@@ -15,25 +16,27 @@
       "Vanilla Plus"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SpringHeelJon/FO4-FUSION/main/logo%20WJ%20title.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/62880",
-      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_e669c682-23f0-4def-8061-8cbb796522f1",
+      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_b3599fab-09aa-40e8-af91-d52bd04f369f",
       "machineURL": "FUSION",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ydbUWKqfJp0=",
-      "Size": 215962897,
-      "NumberOfArchives": 196,
-      "SizeOfArchives": 12880761858,
-      "NumberOfInstalledFiles": 4186,
-      "SizeOfInstalledFiles": 10051888807
+      "Hash": "DMa+Wz4Y3fM=",
+      "Size": 215996278,
+      "NumberOfArchives": 195,
+      "SizeOfArchives": 12880759146,
+      "NumberOfInstalledFiles": 4185,
+      "SizeOfInstalledFiles": 10051901869
     },
-    "version": "1.2"
+    "version": "1.2.1",
+    "RepositoryName": ""
   }
 ]
