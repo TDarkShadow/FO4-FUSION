@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "FUSION",
     "description": "FUSION is a lightweight mod list that focuses on removing the vanilla games annoyances and improving the core experience. The list is optimised for the low end and includes no ENB or large texture packs. Performance is better than the vanilla game and requirements have not changed from Bethesdas 2015 recommended specs.",
     "author": "SpringHeelJon",
@@ -20,23 +19,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SpringHeelJon/FO4-FUSION/main/logo%20WJ%20title.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/62880",
-      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_b3599fab-09aa-40e8-af91-d52bd04f369f",
+      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_51f53946-5a4a-41b1-a695-767c9011cdec",
       "machineURL": "FUSION",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "DMa+Wz4Y3fM=",
-      "Size": 215996278,
-      "NumberOfArchives": 195,
-      "SizeOfArchives": 12880759146,
-      "NumberOfInstalledFiles": 4185,
-      "SizeOfInstalledFiles": 10051901869
+      "Hash": "HDsFphpw5HA=",
+      "Size": 216315430,
+      "NumberOfArchives": 204,
+      "SizeOfArchives": 13182578799,
+      "NumberOfInstalledFiles": 4125,
+      "SizeOfInstalledFiles": 10248551628
     },
-    "version": "1.2.1",
-    "RepositoryName": ""
+    "version": "1.3.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-09-30T18:52:08.9148952Z",
+    "repositoryName": ""
   }
 ]
