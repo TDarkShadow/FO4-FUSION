@@ -1,3 +1,39 @@
+Version 1.3
+UPDATED:
+Shadow boost to 1.7
+Fallout 4 fixes and consistency tweaks to 1.2.2
+Optimised vanilla tree LODS to 2.1
+FOLODIP to 2.4
+Rusty face fix to be player only (NPC edits cause extra script load and visual glitches)
+PRP to 0.64
+Lightweight Lighting to 2.4.1
+Curated Companions to 3.0 
+Curated Companions Cured cait to 3.0
+FUSION LOD GEN to 1.3
+
+REMOVED:
+Modern House LOD (included in new LODS mod)
+SKK settlement attacks system and MCM menu (replaced with BS defense redone)
+Auto open doors in workshop mode (functionality in workshop framework is similar)
+Brighter Settlement Lights
+Daks assault rifle replacer
+
+ADDED
+Workshop Framework
+BS defense redone
+Unused Map Markers - Cut Content Restored
+Legendary Mutation Messages Fix - Cut Content Restored
+A New Dawn - Minutemen BoS Sentinel Cut Content Restored
+Unique BaseID for Uniques
+Handmade Bullpup . A Unique Weapons Concept
+Unique Replacers - Bullpup Problem Solver
+Who's The General - Minutemen Quest Cleanup
+Fast Travel From Quest Hubs
+Daks assault rifle replacer REDUX
+TAA Flicker Fixer
+Truby9 ultrawide support
+power armor rainbox 21:9 fix
+
 Version 1.2.1
 Missing ESP for EVB archives fixed
 FUSION MCM Presets not autoloading on new game fixed
