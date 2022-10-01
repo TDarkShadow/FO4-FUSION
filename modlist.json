@@ -21,21 +21,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/SpringHeelJon/FO4-FUSION/main/logo%20WJ%20title.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/62880",
-      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_51f53946-5a4a-41b1-a695-767c9011cdec",
+      "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_417ac155-047d-4744-8c1c-3ed9cfa985d7",
       "machineURL": "FUSION",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-      "Hash": "HDsFphpw5HA=",
-      "Size": 216315430,
-      "NumberOfArchives": 204,
-      "SizeOfArchives": 13182578799,
-      "NumberOfInstalledFiles": 4125,
-      "SizeOfInstalledFiles": 10248551628
+      "Hash": "XgvEE95f+Fo=",
+      "Size": 216317733,
+      "NumberOfArchives": 207,
+      "SizeOfArchives": 13182660694,
+      "NumberOfInstalledFiles": 4131,
+      "SizeOfInstalledFiles": 10248832758
     },
-    "version": "1.3.0",
+    "version": "1.3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-09-30T18:52:08.9148952Z",
+    "dateUpdated": "2022-10-01T13:31:13.246401Z",
     "repositoryName": ""
   }
 ]
