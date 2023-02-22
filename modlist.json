@@ -7,8 +7,9 @@
       "github/SpringHeelJon"
     ],
     "game": "fallout4",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Nevernude",
       "Lightweight",
       "Lore-Friendly",
